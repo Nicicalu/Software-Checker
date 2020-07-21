@@ -48,7 +48,7 @@ The Java version that was read from Java is then executed with the parameter "-c
 
 ### Further links
  - Github repository: [https://github.com/Nicicalu/Software-Checker](https://github.com/Nicicalu/Software-Checker)
- - Dotnet Versions: [https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later](https://docs.microsoft.com)
+ - Dotnet Versions: [https://docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later)
  
 ## Deutsch
  In diesem Readme wird beschrieben, wie das Script funktioniert und was die Voraussetzungen sind.
@@ -95,6 +95,6 @@ Die letzte Java-Version die bei Java ausgelesen wurde wird dann ausgeführt mit 
 
 ### Weiterführende Links
  - Github Repository: [https://github.com/Nicicalu/Software-Checker](https://github.com/Nicicalu/Software-Checker)
- - Dotnet Versionen: [https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later](https://docs.microsoft.com)
+ - Dotnet Versionen: [https://docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later)
 ***
 *von Nicolas Caluori © 2020*
