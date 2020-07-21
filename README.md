@@ -2,7 +2,7 @@
 *Die deutsche Version ist weiter unten!*
 
 ## English
-
+*Note: All comments in the file are german.*
 
 This readme describes how the script works and what the requirements are.
 [Github Repository](https://github.com/Nicicalu/Datenbank-Script-M122)
@@ -48,7 +48,7 @@ The Java version that was read from Java is then executed with the parameter "-c
 
 ### Further links
  - Github repository: [https://github.com/Nicicalu/Software-Checker](https://github.com/Nicicalu/Software-Checker)
-
+ - Dotnet Versions: [https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later](https://docs.microsoft.com)
  
 ## Deutsch
  In diesem Readme wird beschrieben, wie das Script funktioniert und was die Voraussetzungen sind.
@@ -95,5 +95,6 @@ Die letzte Java-Version die bei Java ausgelesen wurde wird dann ausgeführt mit 
 
 ### Weiterführende Links
  - Github Repository: [https://github.com/Nicicalu/Software-Checker](https://github.com/Nicicalu/Software-Checker)
+ - Dotnet Versionen: [https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed#find-newer-net-framework-versions-45-and-later](https://docs.microsoft.com)
 ***
 *von Nicolas Caluori © 2020*
